@@ -1,4 +1,4 @@
-Olá! Eu sou Cleidson Lima 👋
+* Olá! Eu sou Cleidson Lima 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas, interessado em desenvolvimento de sistemas, tecnologia e criação de soluções digitais.
 
