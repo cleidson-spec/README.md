@@ -1,10 +1,10 @@
-*** Olá! Eu sou Cleidson Lima 👋
+### Olá! Eu sou Cleidson Lima 👋
 
-**🎓 Estudante de Análise e Desenvolvimento de Sistemas, interessado em desenvolvimento de sistemas, tecnologia e criação de soluções digitais.
+## 🎓 Estudante de Análise e Desenvolvimento de Sistemas, interessado em desenvolvimento de sistemas, tecnologia e criação de soluções digitais.
 
 Atualmente, estou construindo minha trajetória profissional na área de tecnologia, desenvolvendo projetos acadêmicos e pessoais para colocar em prática meus conhecimentos e evoluir continuamente como desenvolvedor.
 
-**🚀 Sobre mim
+## Sobre mim
 *  Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 *  Interesse em Desenvolvimento Web e Desenvolvimento de Sistemas
 *  Sempre buscando aprender e aprimorar meus conhecimentos
@@ -13,7 +13,7 @@ Atualmente, estou construindo minha trajetória profissional na área de tecnolo
 *  Em constante evolução na área de tecnologia
 *  Tecnologias e conhecimentos
 
-** Linguagens e Desenvolvimento
+## Linguagens e Desenvolvimento
 * JavaScript
 * HTML5
 * CSS3
@@ -24,7 +24,7 @@ Atualmente, estou construindo minha trajetória profissional na área de tecnolo
 * Git
 * GitHub
 
-**📚 Atualmente estudando
+##  Atualmente estudando
 
 *  Desenvolvimento Web
 *  Programação
@@ -34,7 +34,7 @@ Atualmente, estou construindo minha trajetória profissional na área de tecnolo
 *  Projetos
 *  Sistema de Gestão de Estoque
 
-** 🎯 Áreas de interesse
+## Áreas de interesse
 *  Desenvolvimento Web
 * Desenvolvimento de Sistemas
 * Desenvolvimento de Sistemas Banco de Dados
